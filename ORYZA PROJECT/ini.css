@@ -1,0 +1,90 @@
+body {
+    background-image: url("walpapper.jpg");
+    width: auto;
+    height: auto;
+}
+
+.justbackground {
+    
+    color: rgb(146, 243, 247);
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-display: bold;
+}
+.thismoa {
+    position: fixed;
+    bottom: 0;
+    top: 150px;
+    right: 0;
+    left: 0;
+}
+.thisvarsity {
+    position: fixed;
+    bottom: 0;
+    right: 1000px;
+    top: 150px;
+    
+}
+.moaword {
+    position: fixed;
+    bottom: 300px;
+    color: aliceblue;
+    font-size: 10px;
+}
+.varsityword {
+    position: fixed;
+    right: 0;
+    left: 230px;
+    bottom: 300px;
+    color: aliceblue;
+    font-size: 10px;
+}
+.thiskorean {
+    position: fixed;
+    right: 700px;
+    top: 150px;
+}
+.koreanword {
+    position: fixed;
+    bottom: 300px;
+    right: 720px;
+}
+.thishoodie {
+    position: fixed;
+    right: 400px;
+    top: 150px;
+}
+.hoodieword {
+    position: fixed;
+    right: 420px;
+    top: 360px;
+}
+.searchInput {
+    position: fixed;
+    right: 300px;
+    top: 30px;
+}
+.thisbanner {
+    position: fixed;
+    width: 500px;
+    height: 250px;
+    bottom: 30px;
+    left: 100px;
+}
+.thisbaner {
+    position: fixed;
+    width: 500px;
+    height: 250px;
+    bottom: 30px;
+    right: 100px;
+}
+.thisjeans {
+    position: fixed;
+    top: 150px;
+    right: 100px;
+}
+.jeansword {
+    position: fixed;
+    right: 120px;
+    top: 360px;
+}
